@@ -639,3 +639,7 @@ a {
 .modal-footer p {
   margin: 0;
 }
+
+.ekko-lightbox-nav-overlay a {
+  color: black!important
+}
